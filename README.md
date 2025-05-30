@@ -1,6 +1,6 @@
 Hi,thereI'm Hu YuLong.Welcome to my GitHub.You're the:
 </img>
-<img src="https://count.getloli.com/get/@sayamin1201?theme=rule34" alt="longsizhuo" width="300"/>
+<img src="https://count.getloli.com/get/@sayamin1201?theme=rule34" width="300"/>
 </div>
 
 <div style="width: 100%; height: 600px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
