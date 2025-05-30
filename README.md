@@ -13,4 +13,4 @@ Hi,thereI'm Hu YuLong.Welcome to my GitHub.You're the:
 
 - 👋 Hi, I’m @sayamin1201
 - 👀 I’m interested in anima
-- 📕 Here's my blog: [Blog](sayamin1201.github.io/huyuloong/)
+- 📕 Here's my blog: [Blog](https://sayamin1201.github.io/huyuloong/)
